@@ -167,6 +167,7 @@ article {
 article p:first-of-type:first-letter {
   font-size: 108px;
   line-height: 1;
+  float: left;
   margin: -10px 10px 0 -8px;
   color: #ddd;
 }
